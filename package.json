@@ -1,6 +1,12 @@
 {
+  "name": "expo-firebase-app",
+  "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yumbelcity/expo-firebase-app.git"
+  },
   "dependencies": {
     "expo": "^27.0.1",
     "firebase": "^5.0.4",
@@ -12,5 +18,12 @@
     "react-native-vector-icons": "^4.6.0",
     "react-navigation": "^2.0.1",
     "tcomb-form-native": "^0.6.11"
-  }
+  },
+  "keywords": [
+    "Firebase",
+    "Restaurants",
+    "Udemy"
+  ],
+  "author": "Mark Farías",
+  "license": "MIT"
 }
